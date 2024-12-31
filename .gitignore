@@ -1,0 +1,9 @@
+# Executables (Linux - elf format)
+.out
+tlb
+
+# Object files (Linux - elf format
+.o
+
+# CTags
+tags
